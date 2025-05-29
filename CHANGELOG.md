@@ -1,5 +1,9 @@
 
-## 6.0.0
+## 6.0.6
+
+- refactor: replace chalk with smaller alternative by @webdiscus
+
+## 6.0.5
 
 - Bun support - Fixes #5893 #5774 #5682 #5675 #5777
 - Disable git parsing by default #5909 #2182 #5801 #5051 #5696
